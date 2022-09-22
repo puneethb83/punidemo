@@ -4,6 +4,7 @@
   <artifactId>cart</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <url>https://maven.apache.org</url>
   
 <dependencies>
   <dependency>
