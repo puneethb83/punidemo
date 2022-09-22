@@ -4,7 +4,7 @@
   <artifactId>cart</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  
+  <build>
   <plugins>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -12,6 +12,8 @@
        <version>3.3.1</version>
     </plugin>
   </plugins>
+    
+  </build>
       
   <properties>
   <maven.compiler.source>1.8</maven.compiler.source>
